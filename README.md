@@ -6,13 +6,7 @@
   </picture>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sajtisan&bg_color=0a0a0a&title_color=ff003c&text_color=e0e0e0&icon_color=ff003c&border_color=ff003c&border_radius=0&show_icons=true&hide_border=false" alt="GitHub Stats" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="C" />
