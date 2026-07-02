@@ -1,24 +1,33 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./terminal.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./terminal.svg">
-    <img alt="System Diagnostic Sequence" src="./terminal.svg" width="100%">
-  </picture>
-</div>
+# Hi, I'm Raffai Sajti Dávid 👋
 
+I am a Computer Science student at the University of Szeged (SZTE TTIK), specializing in Artificial Intelligence. 
 
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=csharp&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="Java" />
-  <img src="https://img.shields.io/badge/Scala-0a0a0a?style=for-the-badge&logo=scala&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="Scala" />
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="Python" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/.NET-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt=".NET" />
-  <img src="https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&color=ff003c&labelColor=0a0a0a" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=ff003c&color=ff003c&labelColor=0a0a0a" alt="PostgreSQL" />
-</div>
+### Tech Stack
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### Deployed
+* **[SFF-Build-Checker](https://github.com/Sajtisan/sff-build-checker)** - Zero-Knowledge hardware validation agent (Gemini LLM, Hugging Face NLP).
+* **[OOD-Detection-Baseline](https://github.com/Sajtisan/ood-detection-baseline)** - Neural network robustness and anomaly detection (TF/Keras).
+* **[Spíd](https://github.com/Sajtisan/Spid)** - Hex-grid strategy environment (Vanilla JS, Custom Pathfinder).
+* **[AzElsoOlimpia](https://github.com/Sajtisan/AzElsoOlimpia)** - Client-side event portal and ticket routing.
+
+### WIP
+* **[MarkdownStudio](https://github.com/Sajtisan/Markdown-Note-taking-App)** - Cross-platform markdown environment (.NET, Avalonia UI).
+* **[BootCanvas](#)** - Visual editor for GRUB bootloader themes (Blazor, Photino).
+* **[Environment-CLI](#)** - Developer environment automation.
+* **[Lzy-Brain](#)** - Something inspired by Andrej Karpathy-s "Second brain".
+* **[Spicetube-music](#)** - Youtube music desktop app similar to "Spicetify".
