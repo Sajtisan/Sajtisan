@@ -30,4 +30,4 @@ I am a Computer Science student at the University of Szeged (SZTE TTIK), special
 * **[BootCanvas](#)** - Visual editor for GRUB bootloader themes (Blazor, Photino).
 * **[Environment-CLI](#)** - Developer environment automation.
 * **[Lzy-Brain](#)** - Something inspired by Andrej Karpathy-s "Second brain".
-* **[Spicetube-music](#)** - Youtube music desktop app similar to "Spicetify".
+* **[Messenger-App-Reimagined](#)** - A dedicated chromium base app for desktop, with the beloved bubbles function (or something like that).
