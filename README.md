@@ -26,7 +26,7 @@ I am a Computer Science student at the University of Szeged (SZTE TTIK), special
 * **[AzElsoOlimpia](https://github.com/Sajtisan/AzElsoOlimpia)** - Client-side event portal and ticket routing.
 
 ### WIP
-* **[Lzy-Brain](#)** - Something inspired by Andrej Karpathy-s "Second brain".
+* **[Lzy-Brain](https://github.com/Sajtisan/Lzy-Brain)** - Something inspired by Andrej Karpathy-s "Second brain".
 * **[RigCtl](https://github.com/Sajtisan/RigCtl)** - Lightweight modular Linux hardware control for mouse, keyboard, and PC fan profiles.
 * **[Messenger-App-Reimagined](#)** - A dedicated chromium base app for desktop, with the beloved bubbles function (or something like that).
 * **[BootCanvas](#)** - Visual editor for GRUB bootloader themes (Blazor, Photino).
