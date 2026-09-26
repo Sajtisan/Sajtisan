@@ -33,8 +33,7 @@ I am a Computer Science student at the University of Szeged (SZTE TTIK), special
 
 ### WIP
 * **[Lzy-Brain](https://github.com/Sajtisan/Lzy-Brain)** - Something inspired by Andrej Karpathy-s "Second brain".
+* **[LzyFlow](https://github.com/Sajtisan/LzyFlow)** - Local-first Linux file organizer with safe rule-based and semantic classification (.NET, SQLite, TOML).
 * **[RigCtl](https://github.com/Sajtisan/RigCtl)** - Lightweight modular Linux hardware control for mouse, keyboard, and PC fan profiles.
 * **[Messenger-App-Reimagined](#)** - A dedicated chromium base app for desktop, with the beloved bubbles function (or something like that).
 * **[BootCanvas](#)** - Visual editor for GRUB bootloader themes (Blazor, Photino).
-* **[Environment-CLI](#)** - Developer environment automation.
-* **[MarkdownStudio](https://github.com/Sajtisan/Markdown-Note-taking-App)** - Cross-platform markdown environment (.NET, Avalonia UI).
